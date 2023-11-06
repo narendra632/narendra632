@@ -12,6 +12,8 @@
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
+- 📄 Know about my experiences : [My Portfolio Site](https://narendrasingh.pythonanywhere.com/)
+
 - 👨‍💻 All of my projects are available at [https://github.com/narendra632](https://github.com/narendra632)
 
 - 💬 Ask me about **Web Dev, Javascript, Python, React, AI Hype**
@@ -55,6 +57,7 @@
   <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2020/11/canva-logo-0.png" alt="django" width="60" height="60"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/solana.svg" alt="solana" width="40" height="40"/> </a> 
+    <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> 
  </p>
   
   
