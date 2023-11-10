@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Epitome](https://github.com/narendra632/MegaReact_Epitome)
 
-- 🌱 I’m currently learning **MERN stack, Typescript, Machine learning**
+- 🌱 I’m currently learning **MERN stack, Typescript, AI**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
