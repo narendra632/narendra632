@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN stack, Typescript, AI**
 
-- 👯 I’m looking to collaborate on **MERN & Django Projects**
+- 👯 I’m looking to collaborate on **MERN Projects**
 
 - 📄 Know about my experiences : [My Portfolio Site](https://narendrasingh.pythonanywhere.com/)
 
