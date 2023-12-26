@@ -6,7 +6,7 @@
 <br>
 <img align="right" alt="web_dev" width="50%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
-- 🔭 I’m currently working on [Epitome](https://github.com/narendra632/MegaReact_Epitome)
+- 🔭 I’m currently working on [Epitome](https://github.com/narendra632/happening-NEXT)
 
 - 🌱 I’m currently learning **MERN stack, Typescript, AI**
 
