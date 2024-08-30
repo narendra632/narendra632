@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **MERN & Django Projects**
 
-- 📄 Know about my experiences : [My Portfolio Site](https://narendrasingh.pythonanywhere.com/)
+- 📄 Know about my experiences : [My Portfolio Site](https://www.narendrasingh.co/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/narendra632](https://github.com/narendra632)
 
