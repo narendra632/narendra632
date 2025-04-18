@@ -6,7 +6,7 @@
 <br>
 <img align="right" alt="web_dev" width="50%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
-- 🔭 I’m currently working on [Codement - Community management](https://github.com/narendra632/Codement_Next)
+- 🔭 I’m currently working on [AI- Driven Interview System](https://github.com/narendra632/InterviewME)
 
 - 🌱 I’m currently learning **MERN stack, Typescript, AI**
 
@@ -14,13 +14,7 @@
 
 - 📄 Know about my experiences : [My Portfolio Site](https://www.narendrasingh.co/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/narendra632](https://github.com/narendra632)
-
-- 💬 Ask me about **Web Dev, Javascript, Python, React, AI Hype**
-
 - 📫 How to reach me **narendrasinghrathore7620@gmail.com**
-
-- ⚡ My Mantra: **I would rather live with failure, than the regret of doing nothing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
